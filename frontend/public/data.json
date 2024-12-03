@@ -1,0 +1,17 @@
+{
+    "_id": "64d",
+    "name": "Aya Zeino",
+    "email": "AyaZeino1998@gmail.com",
+    "phone": "0957877541",
+    "gender": "female",
+    "locationType": "both",
+    "jobTitle": "Software Engineer",
+    "employmentType": "full-time",
+    "cv": "/ayazeino.pdf",
+    "experience": 5,
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB"],
+    "status": "pendding",
+    "interview": "",
+    "createdAt": "2024-11-28T10:00:00.000Z"
+  }
+  
